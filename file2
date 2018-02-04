@@ -1,2 +1,7 @@
 this is addition
+<<<<<<< HEAD
 this is change made in master branch
+=======
+addition in new branch
+>>>>>>> newbranch
+merge conflict
